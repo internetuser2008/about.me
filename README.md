@@ -1,6 +1,6 @@
 ![Bimal Patel Banner Image](./internetuser2008.gif)
 <!-- <h2 align='center'>
-**internetuser2008/internetuser2008** is a ✨ _special_ ✨ repository because its `Data Engineer/DevOps` </h2> (this file) appears on your GitHub profile.
+**internetuser2008/Bimal.Patel** is a ✨ _special_ ✨ repository because its `Data Engineer/DevOps` </h2> (this file) appears on your GitHub profile.
 -->
 ### Hi there 👋
 
